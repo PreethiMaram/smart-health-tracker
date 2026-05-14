@@ -1,2 +1,8 @@
 Smart Health Tracker is a machine learning-based web application developed using Streamlit and MongoDB. The system uses K-Nearest Neighbors (KNN) and Decision Tree algorithms to analyze user lifestyle habits such as sleep, stress, physical activity, junk food intake, and water consumption to predict overall health status. The application includes secure login/signup functionality, personalized dashboards, health history tracking, interactive data visualizations, and a habit management to-do section. This project demonstrates the integration of machine learning, database management, and frontend web development into a complete intelligent health monitoring system.
 
+<img width="960" height="600" alt="Screenshot 2026-05-14 121703" src="https://github.com/user-attachments/assets/af260766-107d-4e0c-9cf6-a550c67f5e1d" />
+<img width="960" height="600" alt="Screenshot 2026-05-14 121426" src="https://github.com/user-attachments/assets/e40bbc76-c9c8-45d3-87d3-5b6755433233" />
+<img width="960" height="600" alt="Screenshot 2026-05-14 121804" src="https://github.com/user-attachments/assets/cc582b8c-ed91-4bbc-8eb8-efd60a527d24" />
+<img width="960" height="600" alt="Screenshot 2026-05-14 121340" src="https://github.com/user-attachments/assets/9cd52f7b-0287-4ef4-9a78-3ba3c78113e4" />
+<img width="960" height="600" alt="Screenshot 2026-05-14 121330" src="https://github.com/user-attachments/assets/959bf87d-d706-47bd-b21a-334df814d650" />
+<img width="960" height="600" alt="Screenshot 2026-05-14 121306" src="https://github.com/user-attachments/assets/5f164500-c808-493a-bbbf-96b532952a6f" />
